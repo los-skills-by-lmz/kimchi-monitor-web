@@ -1,1 +1,2 @@
-c3RyZWFtbGl0Pj0xLjI4LjANCnJlcXVlc3RzPj0yLjMxLjA=
+streamlit==1.28.0
+requests==2.31.0
